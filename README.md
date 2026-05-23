@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Binoy<br><br> Full Stack Developer  <br> Passionate about building modern web applications using ASP.NET Core, Angular, React, and SQL Server  <br> Currently learning advanced .NET Core, Microservices, and React Native  <br> Focused on becoming a strong Full Stack Developer  <br> Skilled in C#, ASP.NET MVC, .NET Core, Angular, React, SQL Server, JavaScript, jQuery, HTML, CSS & Bootstrap  <br><br> Always learning new technologies and improving problem-solving skills.
+Hi, I'm Binoy<br><br> Full Stack Developer  <br> Passionate about building modern web applications using ASP.NET Core, Angular, React, and SQL Server  <br> Currently learning advanced .NET Core, Microservices, and React  <br> Focused on becoming a strong Full Stack Developer  <br> Skilled in C#, ASP.NET MVC, .NET Core, Angular, React, SQL Server, JavaScript, jQuery, HTML, CSS & Bootstrap  <br><br> Always learning new technologies and improving problem-solving skills.
 
 
 ## 🌐 Socials:
